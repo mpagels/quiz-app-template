@@ -18,7 +18,7 @@
 
 ## Get started
 
-- [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo into your GitHub account
+- [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repo into your GitHub account. Use the [use this template](https://github.com/mpagels/quiz-app-template/generate) button.
 - and then [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) this repo from your account to your local machine
 
 - after `cloning` change into the new directory and run
